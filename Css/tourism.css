@@ -1,0 +1,16 @@
+
+.bg-img{
+    background-image: url("https://ik.imagekit.io/sy9qynug0/demo/ocean-img.jpg");
+    height: 600px;
+    width:400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img-2{
+    background-image: url("https://ik.imagekit.io/sy9qynug0/demo/travel-adventure-with-baggage.jpg");
+    height:600px;
+    width:400px;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
